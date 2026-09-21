@@ -209,4 +209,4 @@ C++Builder is offered as a full free version with all features and updates inclu
 Unlock your potential in software development with C++Builder – start your free download today!
 
 ---
-**Last updated:** 2026-09-21 12:31:36 UTC
+**Last updated:** 2026-09-21 18:27:50 UTC
